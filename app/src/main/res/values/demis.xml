@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="margin_small">30dp</dimen>
+    <dimen name="small_font">10sp</dimen>
+    <dimen name="Ridious">10dp</dimen>
+    <dimen name="marginright">30dp</dimen>
+
+</resources>
